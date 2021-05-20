@@ -1,1 +1,2 @@
 # YogaStudio
+# HTML / CSS / Ajax
