@@ -1,2 +1,3 @@
 # YogaStudio
-# HTML / CSS / Ajax
+HTML / CSS / Ajax
+https://randrahim.github.io/YogaStudio/
