@@ -1,3 +1,3 @@
 # YogaStudio
-HTML / CSS / Ajax
+I used HTML / CSS / Ajax <br>
 https://randrahim.github.io/YogaStudio/
